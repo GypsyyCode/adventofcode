@@ -13,6 +13,9 @@ software in Go is a useful skill.
 Whether you are new to Go or have already written countless lines of it, this
 repository aims at giving you everything you need to improve.
 
+## Private Leaderboard
+`2378575-c919202e`
+
 ## Getting started
 
 First and foremost, go to the [Advent of Code website](https://adventofcode.com/)
